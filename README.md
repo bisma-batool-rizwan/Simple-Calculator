@@ -19,7 +19,7 @@ A clean and responsive calculator built using **HTML**, **CSS**, and **JavaScrip
 🔗 https://simple-calculator-c01.netlify.app/
 ## 📸 Screenshot
 
-![Calculator Screenshot](calculator.png)
+<img src="calculator.png" width="200" alt="Calculator Screenshot">
 
 ## 🛠️ Technologies Used
 
